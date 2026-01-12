@@ -16,7 +16,7 @@
         "assets": [
           {
             "glob": "**/*",
-            "input": "apps/client/public"
+            "input": "apps/client/src/assets"
           }
         ],
         "styles": ["apps/client/src/styles.css"]
